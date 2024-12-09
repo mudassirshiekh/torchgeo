@@ -35,6 +35,7 @@ $ pip install torchgeo
 For [conda](https://docs.conda.io/) and [spack](https://spack.io/) installation instructions, see the [documentation](https://torchgeo.readthedocs.io/en/stable/user/installation.html).
 
 ## Documentation
+## By Mudassir Alam
 
 You can find the documentation for TorchGeo on [ReadTheDocs](https://torchgeo.readthedocs.io). This includes API documentation, contributing instructions, and several [tutorials](https://torchgeo.readthedocs.io/en/stable/tutorials/getting_started.html). For more details, check out our [paper](https://arxiv.org/abs/2111.08872), [podcast episode](https://www.youtube.com/watch?v=ET8Hb_HqNJQ), [tutorial](https://www.youtube.com/watch?v=R_FhY8aq708), and [blog post](https://pytorch.org/blog/geospatial-deep-learning-with-torchgeo/).
 
